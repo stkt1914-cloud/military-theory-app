@@ -1,0 +1,17 @@
+{
+  "name": "军事理论学习",
+  "short_name": "军事理论",
+  "description": "大学军事理论系统学习：12 章精讲（国防、军事思想、战略环境、现代战争、信息化装备…）+ 习题练习，支持离线使用。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3E7A3E",
+  "theme_color": "#3E7A3E",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
